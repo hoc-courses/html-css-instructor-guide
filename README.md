@@ -1,1 +1,2 @@
-# html-css-instructor-guide
+# HTML-CSS Course Instructor Guide
+
