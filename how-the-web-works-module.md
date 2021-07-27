@@ -1,4 +1,4 @@
-# Modele - How the Web Works
+# Module - How the Web Works
 
 This module give a brief introduction to some of the big concepts of the internet. 
 
