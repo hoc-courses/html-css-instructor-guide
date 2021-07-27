@@ -2,8 +2,8 @@
 
 ### Modules
 
-Topic | Description
--------|:-|:-:
+Topic | Description |
+-------|:-|:-:|
 [Intro](intro-module.md) | Software Installation through setting up and introducing apps/tools students will use in course, such as Git/GitHub, Terminal CLI, VS Code, GitHub Classroom.
 [How the Web Works](how-the-web-works-module.md) | Code.org videos on DNS, TCP/IP, HTTP, HTML<br/>Anatomy of  a Web Page<br/>How a Web Page Get Loaded.
 [HTML Intro](html-intro-module.md) | Basics of HTML syntax, structure of a document. Cover common elements, such as text-formatting, image, anchor.
