@@ -1,24 +1,38 @@
 
 # Module - Introduction 
 
-**Pre-requisites**
-This module assumes that the software has already been installed. [Software Installation](https://github.com/hoc-courses/shared-resources/blob/main/software-installation.md)
-
-
 ## Overview
-There are several applications/tools that students will need to use reguarly. The purpose of this module is to familiarize students with those tools and perform any configuration needed.
+There are several applications/tools that students will need to use reguarly. The purpose of this module is to set up the students' computers and familiarize them with the apps/tools they will be using as a software devloper.
+tools.
+
+The resources for these topics are in the shared resources repo so they can be shared across classes.
+
+The Git Bash Shell Lab covers using the CLI and using Git/GitHub, since it is distributed/turned in using GitHub Classroom.
+
+<br/>
+
+Topic | Reading/Videos |  Labs | Demos
+------- |-------|:-|:-:
+Software Installation | [Install Software](https://github.com/hoc-courses/shared-resources/blob/main/software-installation.md) | |
+Git/GitHub Intro | [Git/GitHub Intro](https://github.com/hoc-courses/shared-resources/blob/main/git-github-intro.md) <br/>[Git Cloning](https://github.com/hoc-courses/shared-resources/blob/main/git-cloning-existing-repo.md)<br/> [Git Commands](https://github.com/hoc-courses/shared-resources/blob/main/git-commands.md)<br/> [Why we Need Version Control Video](https://www.youtube.com/watch?v=rbZf3lPMOYY&<br/>list=PLVYDhqbgYpYXbAL_Hps1Y--THRmaTFipj&index=10)| [Git Bash Shell](https://github.com/hoc-labs/git-bash-shell#readme) |
+Terminal/CLI | [Terminal CLI](https://github.com/hoc-courses/shared-resources/blob/main/terminal-cli-intro.md) | [Git Bash Shell](https://github.com/hoc-labs/git-bash-shell#readme) |
+GitHub Classroom | [GitHub Classroom Assignments Intro](https://github.com/hoc-courses/shared-resources/blob/main/github-classroom-intro.md) | [Git Bash Shell](https://github.com/hoc-labs/git-bash-shell#readme) |
+VS Code Intr/Config | [VS Code Config](https://github.com/hoc-courses/shared-resources/blob/main/vs-code-intro.md) <br/> [Youtube Tutorial](https://www.youtube.com/watch?v=ORrELERGIHs)| [VS Code Intro](https://github.com/hoc-labs/vs-code-intro#readme)
 
 
 ### Tools
 
-The following are the tools that need to be covered. The sequence is important.
-* brief Intro/Demo to Git/GitHub
-* brief Intro/Demo to Terminal/CLI
+The following are the tasks that need to be covered. The sequence is important.
+* software installation
+* brief intro/demo to Git/GitHub
+* brief intro/demo to Terminal/CLI
 * create class folder
-* brief Intro to GitHub Classroom
-* bash Shell Lab (in class)
-* VS Code Intro
+* brief intro to GitHub Classroom
+* Bash Shell lab (in class)
+* VS Code Intro lab (in class)
 
+### Software Installation
+The list of software that needs to be installed can be found here. [Software Installation](https://github.com/hoc-courses/shared-resources/blob/main/software-installation.md)
 
 ### Git/GitHub Introduction
 
@@ -51,14 +65,6 @@ Students need to learn how GitHub Classroom manages assignments and how specific
 * this [resource](https://github.com/hoc-courses/shared-resources/blob/main/github-classroom-intro.md) is a general overview of how GitHub Classroom works as well as a walkthrough for a first assignment. 
 
 At this point, students should be ready to do the [Bash Shell Lab](https://github.com/hoc-labs/git-bash-shell#readme) during class to practice both CLI general commands and git ACP commands.
-
-
-
-
-## Git/GitHub
-* [Introduction](https://github.com/hoc-courses/shared-resources/blob/main/git-github-intro.md)
-* [GitHub Classroom/Assignments](https://github.com/hoc-courses/shared-resources/blob/main/github-classroom-intro.md)
-* [Git Commands](https://github.com/hoc-courses/shared-resources/blob/main/git-commands.md)
 
 ## Bash Shell Lab
 Do this [lab](https://github.com/hoc-labs/git-bash-shell#readme) in class, since it is introducing a lot of new material. 
