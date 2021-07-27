@@ -3,7 +3,6 @@
 This module covers two important concepts.
 * CSS Box Model
 * CSS Display Property - Block vs Inline Elements
-* Special Topics
 
 Topic | Reading/Videos |  Labs | Demos
 ------- |-------|:-|:-
